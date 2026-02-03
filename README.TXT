@@ -17,3 +17,4 @@ How to start this project: Create one or more Book instances.
 USER INSTRUCTIONS: Complete the exercises in Chapter 2.
 
 Today is the third of February.
+Indeed it is
